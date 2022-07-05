@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSimDocument Version="30000">
 	<Model name="H1922">
-		<credits>Model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp1992. Hamstrings parameters adapted from Arnold2010.</credits>
+		<credits>Model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp1990. Hamstrings parameters adapted from Arnold2010.</credits>
 		<publications>Geijtenbeek, T.: SCONE: Open Source Software for Biological Motion, Journal of Open Source Software 4(38), 2019.</publications>
 		<length_units>meters</length_units>
 		<force_units>N</force_units>
