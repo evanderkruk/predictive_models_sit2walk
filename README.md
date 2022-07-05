@@ -1,16 +1,18 @@
-# scone-models
+# Musculoskeletal Models for Predictive Simulation
 
-Biomechanical models, optimized for use in predictive simulations. See below for an overview of included models.
+A curated list of musculoskeletal models, optimized for use in predictive simulations.
 
-### H0918
+## Human Models (Lower Extremity)
+
+#### H0918
 
 Planar model with 9 degrees-of-freedom and 18 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp1990. Hamstrings parameters adapted from Arnold2010.
 
-### H1922
+#### H1922
 
 Model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp1990. Hamstrings parameters adapted from Arnold2010.
 
-### References
+## References
 
 **Delp1990**	Delp, S. L., Loan, J. P., Hoy, M. G., & Zajac, F. E. (1990). An interactive Graphics-Based Model of the Lower Extremity to Study Orthopaedic Surgical Procedures. IEEE Transactions on Biomedical Engineering, Vol. 37, pp. 757–767. https://doi.org/10.1109/10.102791
 
