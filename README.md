@@ -6,11 +6,11 @@ A curated list of musculoskeletal models, optimized for use in predictive simula
 
 #### H0918
 
-Planar model with 9 degrees-of-freedom and 18 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp et al. 1990[^Delp1990]. Hamstrings parameters adapted from Arnold et al. 2010[^Arnold2010]. Via-point locations updated to closer match muscle moment arm data from Rajagopal et al 2016[^Rajagopal].
+Planar model with 9 degrees-of-freedom and 18 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp et al. 1990[^Delp1990]. Hamstrings parameters adapted from Arnold et al. 2010[^Arnold2010]. Via-point locations updated to closer match muscle moment arm data from Rajagopal et al 2016[^Rajagopal2016].
 
 #### H1922
 
-3D model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp et al. 1990[^Delp1990]. Hamstrings parameters adapted from Arnold et al. 2010[^Arnold2010]. Via-point locations updated to closer match muscle moment arm data from Rajagopal et al 2016[^Rajagopal].
+3D model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp et al. 1990[^Delp1990]. Hamstrings parameters adapted from Arnold et al. 2010[^Arnold2010]. Via-point locations updated to closer match muscle moment arm data from Rajagopal et al 2016[^Rajagopal2016].
 
 ### References
 
