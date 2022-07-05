@@ -10,7 +10,7 @@ Planar model with 9 degrees-of-freedom and 18 muscles, optimized for predictive 
 
 #### H1922
 
-Model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp1990. Hamstrings parameters adapted from Arnold2010.
+Model with 19 degrees-of-freedom and 22 muscles, optimized for predictive simulations. Muscle parameters adapted from Delp et al. 1990[^Delp1990]. Hamstrings parameters adapted from Arnold et al. 2010[^Arnold2010].
 
 ### References
 
