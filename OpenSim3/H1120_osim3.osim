@@ -934,13 +934,11 @@
 										<!--Flag indicating whether or not the values of the coordinates should be prescribed according to the function above. It is ignored if the no prescribed function is specified.-->
 										<prescribed>false</prescribed>
 									</Coordinate>
-								
 								</objects>
 								<groups />
 							</CoordinateSet>
 							<!--Whether the joint transform defines parent->child or child->parent.-->
 							<reverse>false</reverse>
-							
 						</PinJoint>
 					</Joint>
 					<VisibleObject>
@@ -1087,13 +1085,11 @@
 										<!--Flag indicating whether or not the values of the coordinates should be prescribed according to the function above. It is ignored if the no prescribed function is specified.-->
 										<prescribed>false</prescribed>
 									</Coordinate>
-									
 								</objects>
 								<groups />
 							</CoordinateSet>
 							<!--Whether the joint transform defines parent->child or child->parent.-->
 							<reverse>false</reverse>
-							
 						</PinJoint>
 					</Joint>
 					<VisibleObject>
@@ -1747,12 +1743,6 @@
 									<location> -0.0258 -0.055 0.0811</location>
 									<body>pelvis</body>
 								</PathPoint>
-								<ConditionalPathPoint name="iliacus_r-P3">
-									<location> -0.0288 -0.0805 0.0816</location>
-									<body>pelvis</body>
-									<range> -1.5708 0.785398</range>
-									<coordinate>hip_flexion_r</coordinate>
-								</ConditionalPathPoint>
 								<PathPoint name="iliacus_r-P4">
 									<location> 0.0017 -0.0543 0.0057</location>
 									<body>femur_r</body>
@@ -1811,18 +1801,7 @@
 					</ActiveForceLengthCurve>
 					<!--Force-velocity curve.-->
 					<ForceVelocityCurve>
-						<!--Curve slope at the maximum normalized concentric (shortening) velocity (normalized velocity of -1)-->
-						<concentric_slope_at_vmax>0</concentric_slope_at_vmax>
-						<!--Curve slope just before reaching concentric_slope_at_vmax-->
-						<concentric_slope_near_vmax>0.25</concentric_slope_near_vmax>
-						<!--Curve slope at isometric (normalized velocity of 0)-->
-						<isometric_slope>5</isometric_slope>
-						<!--Curve slope at the maximum normalized eccentric (lengthening) velocity (normalized velocity of 1)-->
-						<eccentric_slope_at_vmax>0</eccentric_slope_at_vmax>
-						<!--Curve slope just before reaching eccentric_slope_at_vmax-->
-						<eccentric_slope_near_vmax>0.15</eccentric_slope_near_vmax>
-						<!--Curve value at the maximum normalized eccentric contraction velocity-->
-						<max_eccentric_velocity_force_multiplier>1.4</max_eccentric_velocity_force_multiplier>
+						<!--All properties of this object have their default values.-->
 					</ForceVelocityCurve>
 					<!--Passive-force-length curve.-->
 					<FiberForceLengthCurve>
@@ -1853,12 +1832,6 @@
 									<location> -0.0238 -0.057 0.0759</location>
 									<body>pelvis</body>
 								</PathPoint>
-								<ConditionalPathPoint name="psoas_r-P3">
-									<location> -0.0288 -0.0805 0.0816</location>
-									<body>pelvis</body>
-									<range> -1.5708 0.785398</range>
-									<coordinate>hip_flexion_r</coordinate>
-								</ConditionalPathPoint>
 								<PathPoint name="psoas_r-P4">
 									<location> 0.0016 -0.0507 0.0038</location>
 									<body>femur_r</body>
@@ -1917,18 +1890,7 @@
 					</ActiveForceLengthCurve>
 					<!--Force-velocity curve.-->
 					<ForceVelocityCurve>
-						<!--Curve slope at the maximum normalized concentric (shortening) velocity (normalized velocity of -1)-->
-						<concentric_slope_at_vmax>0</concentric_slope_at_vmax>
-						<!--Curve slope just before reaching concentric_slope_at_vmax-->
-						<concentric_slope_near_vmax>0.25</concentric_slope_near_vmax>
-						<!--Curve slope at isometric (normalized velocity of 0)-->
-						<isometric_slope>5</isometric_slope>
-						<!--Curve slope at the maximum normalized eccentric (lengthening) velocity (normalized velocity of 1)-->
-						<eccentric_slope_at_vmax>0</eccentric_slope_at_vmax>
-						<!--Curve slope just before reaching eccentric_slope_at_vmax-->
-						<eccentric_slope_near_vmax>0.15</eccentric_slope_near_vmax>
-						<!--Curve value at the maximum normalized eccentric contraction velocity-->
-						<max_eccentric_velocity_force_multiplier>1.4</max_eccentric_velocity_force_multiplier>
+						<!--All properties of this object have their default values.-->
 					</ForceVelocityCurve>
 					<!--Passive-force-length curve.-->
 					<FiberForceLengthCurve>
@@ -2667,18 +2629,7 @@
 					</ActiveForceLengthCurve>
 					<!--Force-velocity curve.-->
 					<ForceVelocityCurve>
-						<!--Curve slope at the maximum normalized concentric (shortening) velocity (normalized velocity of -1)-->
-						<concentric_slope_at_vmax>0</concentric_slope_at_vmax>
-						<!--Curve slope just before reaching concentric_slope_at_vmax-->
-						<concentric_slope_near_vmax>0.25</concentric_slope_near_vmax>
-						<!--Curve slope at isometric (normalized velocity of 0)-->
-						<isometric_slope>5</isometric_slope>
-						<!--Curve slope at the maximum normalized eccentric (lengthening) velocity (normalized velocity of 1)-->
-						<eccentric_slope_at_vmax>0</eccentric_slope_at_vmax>
-						<!--Curve slope just before reaching eccentric_slope_at_vmax-->
-						<eccentric_slope_near_vmax>0.15</eccentric_slope_near_vmax>
-						<!--Curve value at the maximum normalized eccentric contraction velocity-->
-						<max_eccentric_velocity_force_multiplier>1.4</max_eccentric_velocity_force_multiplier>
+						<!--All properties of this object have their default values.-->
 					</ForceVelocityCurve>
 					<!--Passive-force-length curve.-->
 					<FiberForceLengthCurve>
@@ -2773,18 +2724,7 @@
 					</ActiveForceLengthCurve>
 					<!--Force-velocity curve.-->
 					<ForceVelocityCurve>
-						<!--Curve slope at the maximum normalized concentric (shortening) velocity (normalized velocity of -1)-->
-						<concentric_slope_at_vmax>0</concentric_slope_at_vmax>
-						<!--Curve slope just before reaching concentric_slope_at_vmax-->
-						<concentric_slope_near_vmax>0.25</concentric_slope_near_vmax>
-						<!--Curve slope at isometric (normalized velocity of 0)-->
-						<isometric_slope>5</isometric_slope>
-						<!--Curve slope at the maximum normalized eccentric (lengthening) velocity (normalized velocity of 1)-->
-						<eccentric_slope_at_vmax>0</eccentric_slope_at_vmax>
-						<!--Curve slope just before reaching eccentric_slope_at_vmax-->
-						<eccentric_slope_near_vmax>0.15</eccentric_slope_near_vmax>
-						<!--Curve value at the maximum normalized eccentric contraction velocity-->
-						<max_eccentric_velocity_force_multiplier>1.4</max_eccentric_velocity_force_multiplier>
+						<!--All properties of this object have their default values.-->
 					</ForceVelocityCurve>
 					<!--Passive-force-length curve.-->
 					<FiberForceLengthCurve>
