@@ -1740,11 +1740,11 @@
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P2">
-									<location> -0.0258 -0.055 0.0811</location>
+									<location> -0.03 -0.01 0.081</location>
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P4">
-									<location> 0.0017 -0.0543 0.0057</location>
+									<location> 0.025 -0.035 0.008</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P5">
@@ -1833,7 +1833,7 @@
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P4">
-									<location> 0.033 -0.035 0.0038</location>
+									<location> 0.025 -0.035 0.0038</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P5">
