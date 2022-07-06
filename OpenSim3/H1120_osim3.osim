@@ -894,9 +894,9 @@
 				<Body name="lumbar">
 					<mass>8.0194</mass>
 					<mass_center> 0 0.0954 0</mass_center>
-					<inertia_xx>0.09594</inertia_xx>
-					<inertia_yy>0.091572</inertia_yy>
-					<inertia_zz>0.085956</inertia_zz>
+					<inertia_xx>0.0809</inertia_xx>
+					<inertia_yy>0.17696</inertia_yy>
+					<inertia_zz>0.078535</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
@@ -1046,10 +1046,10 @@
 				</Body>
 				<Body name="thorax">
 					<mass>26.2172</mass>
-					<mass_center> 0 0.2620 0</mass_center>
-					<inertia_xx>0.16728</inertia_xx>
-					<inertia_yy>0.08619</inertia_yy>
-					<inertia_zz>0.15606</inertia_zz>
+					<mass_center> 0 0.262 0</mass_center>
+					<inertia_xx>0.86464</inertia_xx>
+					<inertia_yy>0.57853</inertia_yy>
+					<inertia_zz>0.83937</inertia_zz>
 					<inertia_xy>0</inertia_xy>
 					<inertia_xz>0</inertia_xz>
 					<inertia_yz>0</inertia_yz>
