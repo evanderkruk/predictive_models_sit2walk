@@ -1829,11 +1829,11 @@
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P2">
-									<location> -0.0238 -0.057 0.0759</location>
+									<location> -0.03 -0.01 0.076</location>
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P4">
-									<location> 0.0016 -0.0507 0.0038</location>
+									<location> 0.033 -0.035 0.0038</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P5">
