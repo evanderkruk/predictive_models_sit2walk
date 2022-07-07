@@ -2562,17 +2562,11 @@
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="iliacus_l-P2">
-									<location> -0.0258 -0.055 -0.0811</location>
+									<location> -0.03 -0.01 -0.081</location>
 									<body>pelvis</body>
 								</PathPoint>
-								<ConditionalPathPoint name="iliacus_l-P3">
-									<location> -0.0288 -0.0805 -0.0816</location>
-									<body>pelvis</body>
-									<range> -1.5708 0.785398</range>
-									<coordinate>hip_flexion_l</coordinate>
-								</ConditionalPathPoint>
 								<PathPoint name="iliacus_l-P4">
-									<location> 0.0017 -0.0543 -0.0057</location>
+									<location> 0.025 -0.035 -0.008</location>
 									<body>femur_l</body>
 								</PathPoint>
 								<PathPoint name="iliacus_l-P5">
@@ -2609,11 +2603,11 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1073</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.1</optimal_fiber_length>
+					<optimal_fiber_length>0.1066</optimal_fiber_length>
 					<!--Resting length of the tendon-->
-					<tendon_slack_length>0.1</tendon_slack_length>
+					<tendon_slack_length>0.0934</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
-					<pennation_angle_at_optimal>0.12217305</pennation_angle_at_optimal>
+					<pennation_angle_at_optimal>0.27991397</pennation_angle_at_optimal>
 					<!--Maximum contraction velocity of the fibers, in optimal fiberlengths/second-->
 					<max_contraction_velocity>10</max_contraction_velocity>
 					<!--Activation time constant (in seconds).-->
@@ -2653,21 +2647,15 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="psoas_l-P1">
-									<location> -0.0647 0.0887 -0.0289</location>
-									<body>pelvis</body>
+									<location> 0.015 0.08 -0.02</location>
+									<body>lumbar</body>
 								</PathPoint>
 								<PathPoint name="psoas_l-P2">
-									<location> -0.0238 -0.057 -0.0759</location>
+									<location> -0.03 -0.01 -0.076</location>
 									<body>pelvis</body>
 								</PathPoint>
-								<ConditionalPathPoint name="psoas_l-P3">
-									<location> -0.0288 -0.0805 -0.0816</location>
-									<body>pelvis</body>
-									<range> -1.5708 0.785398</range>
-									<coordinate>hip_flexion_l</coordinate>
-								</ConditionalPathPoint>
 								<PathPoint name="psoas_l-P4">
-									<location> 0.0016 -0.0507 -0.0038</location>
+									<location> 0.025 -0.035 -0.0038</location>
 									<body>femur_l</body>
 								</PathPoint>
 								<PathPoint name="psoas_l-P5">
@@ -2704,11 +2692,11 @@
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1113</max_isometric_force>
 					<!--Optimal length of the muscle fibers-->
-					<optimal_fiber_length>0.1</optimal_fiber_length>
+					<optimal_fiber_length>0.1169</optimal_fiber_length>
 					<!--Resting length of the tendon-->
-					<tendon_slack_length>0.16</tendon_slack_length>
+					<tendon_slack_length>0.197</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
-					<pennation_angle_at_optimal>0.13962634</pennation_angle_at_optimal>
+					<pennation_angle_at_optimal>0.21552513</pennation_angle_at_optimal>
 					<!--Maximum contraction velocity of the fibers, in optimal fiberlengths/second-->
 					<max_contraction_velocity>10</max_contraction_velocity>
 					<!--Activation time constant (in seconds).-->
