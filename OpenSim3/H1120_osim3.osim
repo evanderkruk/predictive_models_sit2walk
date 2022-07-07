@@ -1825,8 +1825,8 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="psoas_r-P1">
-									<location> -0.0647 0.0887 0.0289</location>
-									<body>pelvis</body>
+									<location> 0.015 0.08 0.02</location>
+									<body>lumbar</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P2">
 									<location> -0.03 -0.01 0.076</location>
