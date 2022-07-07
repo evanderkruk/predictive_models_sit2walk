@@ -1829,7 +1829,7 @@
 									<body>lumbar</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P2">
-									<location> -0.03 -0.01 0.076</location>
+									<location> -0.03 -0.01 0.07</location>
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="psoas_r-P4">
@@ -2651,7 +2651,7 @@
 									<body>lumbar</body>
 								</PathPoint>
 								<PathPoint name="psoas_l-P2">
-									<location> -0.03 -0.01 -0.076</location>
+									<location> -0.03 -0.01 -0.07</location>
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="psoas_l-P4">
