@@ -1525,7 +1525,7 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="med_gas_r-P1">
-									<location> -0.02 -0.386 -0.024</location>
+									<location> -0.02 -0.388 -0.024</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="med_gas_r-P3">
@@ -2254,7 +2254,7 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="med_gas_l-P1">
-									<location> -0.02 -0.386 0.024</location>
+									<location> -0.02 -0.388 0.024</location>
 									<body>femur_l</body>
 								</PathPoint>
 								<PathPoint name="med_gas_l-P3">
