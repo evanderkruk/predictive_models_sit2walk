@@ -163,6 +163,20 @@ model {
 		mesh { file = hat_skull.vtp pos { x = 0.016 y = -0.4 z = 0 } }
 		mesh { file = hat_ribs.vtp pos { x = 0.016 y = -0.4 z = 0 } }
 	}
+	joint_motor {
+		name = lumbar_motor
+		joint = lumbar_joint
+		max_torque = 1000
+		stiffness = 0
+		damping = 20
+	}
+	joint_motor {
+		name = thorax_motor
+		joint = thorax_joint
+		max_torque = 1000
+		stiffness = 0
+		damping = 20
+	}
 	point_path_muscle {
 		name = hamstrings_r
 		max_isometric_force = 2594
