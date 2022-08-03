@@ -61,7 +61,7 @@ model {
 			parent = tibia_r
 			pos_in_parent { x = 0 y = -0.2433 z = 0 }
 			pos_in_child { x = -0.05123 y = 0.01195 z = -0.00792 }
-			limits { x = 0..0 y = 0..0 z = -120..120 }
+			limits { x = 0..0 y = 0..0 z = -60..60 }
 		}
 		mesh { file = foot.vtp pos { x = -0.1 y = -0.03 z = 0 } }
 		mesh { file = talus.vtp pos { x = -0.05123 y = 0.01195 z = -0.00792 } }
@@ -104,7 +104,7 @@ model {
 			parent = tibia_l
 			pos_in_parent { x = 0 y = -0.2433 z = 0 }
 			pos_in_child { x = -0.05123 y = 0.01195 z = 0.00792 }
-			limits { x = 0..0 y = 0..0 z = -120..120 }
+			limits { x = 0..0 y = 0..0 z = -60..60 }
 		}
 		mesh { file = l_foot.vtp pos { x = -0.1 y = -0.03 z = 0 } }
 		mesh { file = l_talus.vtp pos { x = -0.05123 y = 0.01195 z = 0.00792 } }
