@@ -1941,11 +1941,11 @@
 									<body>pelvis</body>
 								</PathPoint>
 								<PathPoint name="rect_fem_r-P2">
-									<location> 0.035 -0.32 0.004</location>
+									<location> 0.038 -0.34 0.004</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="rect_fem_r-P3">
-									<location> 0.035 0.02 0.002</location>
+									<location> 0.04 0.025 0.0018</location>
 									<body>tibia_r</body>
 								</PathPoint>
 							</objects>
@@ -2022,11 +2022,11 @@
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="vas_int_r-P2">
-									<location> 0.035 -0.32 0.01</location>
+									<location> 0.038 -0.34 0.007</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="vas_int_r-P3">
-									<location> 0.035 0.02 0.002</location>
+									<location> 0.04 0.025 0.0018</location>
 									<body>tibia_r</body>
 								</PathPoint>
 							</objects>
@@ -2099,7 +2099,7 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="med_gas_r-P1">
-									<location> -0.02 -0.386 -0.024</location>
+									<location> -0.02 -0.388 -0.024</location>
 									<body>femur_r</body>
 								</PathPoint>
 								<PathPoint name="med_gas_r-P3">
@@ -2831,12 +2831,12 @@
 									<location> -0.0295 -0.0311 -0.0968</location>
 									<body>pelvis</body>
 								</PathPoint>
-								<PathPoint name="rect_fem_l-P2">
-									<location> 0.035 -0.32 -0.004</location>
+								<PathPoint name="rect_fem_r-P2">
+									<location> 0.038 -0.34 -0.004</location>
 									<body>femur_l</body>
 								</PathPoint>
 								<PathPoint name="rect_fem_l-P3">
-									<location> 0.035 0.02 -0.002</location>
+									<location> 0.04 0.025 -0.0018</location>
 									<body>tibia_l</body>
 								</PathPoint>
 							</objects>
@@ -2912,12 +2912,12 @@
 									<location> 0.029 -0.1924 -0.031</location>
 									<body>femur_l</body>
 								</PathPoint>
-								<PathPoint name="vas_int_l-P2">
-									<location> 0.035 -0.32 -0.01</location>
+								<PathPoint name="vas_int_r-P2">
+									<location> 0.038 -0.34 -0.007</location>
 									<body>femur_l</body>
 								</PathPoint>
-								<PathPoint name="vas_int_l-P3">
-									<location> 0.035 0.02 -0.002</location>
+								<PathPoint name="vas_int_r-P3">
+									<location> 0.04 0.025 -0.0018</location>
 									<body>tibia_l</body>
 								</PathPoint>
 							</objects>
@@ -2990,7 +2990,7 @@
 						<PathPointSet>
 							<objects>
 								<PathPoint name="med_gas_l-P1">
-									<location> -0.02 -0.386 0.024</location>
+									<location> -0.02 -0.388 0.024</location>
 									<body>femur_l</body>
 								</PathPoint>
 								<PathPoint name="med_gas_l-P3">
