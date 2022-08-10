@@ -288,7 +288,7 @@ model {
 	}
 	point_path_muscle {
 		name = tib_ant_r
-		max_isometric_force = 1579
+		max_isometric_force = 1759
 		optimal_fiber_length = 0.098
 		tendon_slack_length = 0.223
 		pennation_angle = 0.0872665
@@ -409,7 +409,7 @@ model {
 	}
 	point_path_muscle {
 		name = tib_ant_l
-		max_isometric_force = 1579
+		max_isometric_force = 1759
 		optimal_fiber_length = 0.098
 		tendon_slack_length = 0.223
 		pennation_angle = 0.0872665
